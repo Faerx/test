@@ -22,7 +22,7 @@ builds:
       - 6
       - 7
     ldflags:
-        - "-X 'sos/cmd.version={{.Version}}"
+        - "-X 'sos/cmd.version={{.Version}}'"
 archives:
   - format: tar.gz
 
