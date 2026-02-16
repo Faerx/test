@@ -1,0 +1,2 @@
+priv-out : my_private_key.pem
+file-path : example.txt
