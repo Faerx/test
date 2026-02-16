@@ -41,7 +41,7 @@ archives:
 changelog:
   sort: asc
   filters:
-    exlude:
+    exclude:
       - "^docs:"
       - "^test:"
 
